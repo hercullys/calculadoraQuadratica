@@ -30,6 +30,12 @@ Uma calculadora interativa que permite calcular as raízes de equações quadrá
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request para melhorias, correções de bugs ou novos recursos.
 
+## Tecnologias Utilizadas
+
+- Python 3
+- Biblioteca tkinter
+- Biblioteca matplotlib
+
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
